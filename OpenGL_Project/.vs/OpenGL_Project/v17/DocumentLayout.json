@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\OpenGL\\OpenGL_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D084AE32-C539-45E8-A29F-075ED43D7288}|OpenGL_Project\\OpenGL_Project.vcxproj|C:\\dev\\OpenGL\\OpenGL_Project\\OpenGL_Project\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D084AE32-C539-45E8-A29F-075ED43D7288}|OpenGL_Project\\OpenGL_Project.vcxproj|solutionrelative:OpenGL_Project\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D084AE32-C539-45E8-A29F-075ED43D7288}|OpenGL_Project\\OpenGL_Project.vcxproj|C:\\dev\\OpenGL\\OpenGL_Project\\OpenGL_Project\\res\\shaders\\triangle.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D084AE32-C539-45E8-A29F-075ED43D7288}|OpenGL_Project\\OpenGL_Project.vcxproj|solutionrelative:OpenGL_Project\\res\\shaders\\triangle.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D084AE32-C539-45E8-A29F-075ED43D7288}|OpenGL_Project\\OpenGL_Project.vcxproj|C:\\dev\\OpenGL\\OpenGL_Project\\OpenGL_Project\\res\\shaders\\triangle.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D084AE32-C539-45E8-A29F-075ED43D7288}|OpenGL_Project\\OpenGL_Project.vcxproj|solutionrelative:OpenGL_Project\\res\\shaders\\triangle.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "triangle.vert",
+              "DocumentMoniker": "C:\\dev\\OpenGL\\OpenGL_Project\\OpenGL_Project\\res\\shaders\\triangle.vert",
+              "RelativeDocumentMoniker": "OpenGL_Project\\res\\shaders\\triangle.vert",
+              "ToolTip": "C:\\dev\\OpenGL\\OpenGL_Project\\OpenGL_Project\\res\\shaders\\triangle.vert",
+              "RelativeToolTip": "OpenGL_Project\\res\\shaders\\triangle.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T11:23:44.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "triangle.frag",
+              "DocumentMoniker": "C:\\dev\\OpenGL\\OpenGL_Project\\OpenGL_Project\\res\\shaders\\triangle.frag",
+              "RelativeDocumentMoniker": "OpenGL_Project\\res\\shaders\\triangle.frag",
+              "ToolTip": "C:\\dev\\OpenGL\\OpenGL_Project\\OpenGL_Project\\res\\shaders\\triangle.frag",
+              "RelativeToolTip": "OpenGL_Project\\res\\shaders\\triangle.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T11:24:26.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\dev\\OpenGL\\OpenGL_Project\\OpenGL_Project\\Main.cpp",
+              "RelativeDocumentMoniker": "OpenGL_Project\\Main.cpp",
+              "ToolTip": "C:\\dev\\OpenGL\\OpenGL_Project\\OpenGL_Project\\Main.cpp",
+              "RelativeToolTip": "OpenGL_Project\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T08:06:51.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
